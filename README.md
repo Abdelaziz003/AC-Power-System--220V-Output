@@ -114,13 +114,3 @@ This project demonstrates the integration of:
 - Real-world product design  
 
 👉 Delivering a **complete portable energy system**
-
----
-
-## 👤 Author
-
-**Abdelaziz Lubad**  
-Embedded Systems Engineer  
-
-- 💼 LinkedIn: https://www.linkedin.com/in/abdelaziz-lubad-75788b3b2  
-- 💻 GitHub: https://github.com/Abdelaziz003  
